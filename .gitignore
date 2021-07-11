@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+introduction/*
 
 # Specific Dir
 data/log/*
